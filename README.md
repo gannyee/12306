@@ -23,4 +23,5 @@ Example:
     tickets -dg 成都 南京 2016-10-10
     
 ## 效果
-![效果](https://github.com/gannyee/12306/tree/master/image/01.png)
+
+![](https://github.com/gannyee/12306/tree/master/image/01.png)
