@@ -24,4 +24,4 @@ Example:
     
 ## 效果
 
-![](https://github.com/gannyee/12306/tree/master/image/01.png)
+![效果](https://github.com/gannyee/12306/tree/master/image/01.png)
